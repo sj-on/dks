@@ -1,0 +1,11 @@
+body{
+    background: linear-gradient(#252b49, #121316);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: aliceblue;
+  }
+
+  .container{
+      color: aliceblue;
+  }
